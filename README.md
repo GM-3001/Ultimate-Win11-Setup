@@ -8,7 +8,7 @@ A complete guide to my Windows 11 customization – from the YASB bar to all the
 ---
 
 ## 🖼️ Screenshot
-![My Desktop Screenshot](screenshot.png)
+![My Desktop Screenshot](screenshot.png)  _I will add this later, dw._
 
 ---
 
@@ -126,6 +126,8 @@ You can follow the steps below, or jump to the [**setup video**](https://youtu.b
 > `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser -Force`
 >
 > Also if you notice that the ASCII art is not showing then try editing `"source": "C:/Users/%USERPROFILE%/.config/fastfetch/ascii.txt"` to `"source": "%USERPROFILE%/.config/fastfetch/ascii.txt"`. That should fix it. [**Credits**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/issues/1#issue-3498937609).
+>
+> If you want to add FastFetch to CMD as well, then please check out this [**issue**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/issues/9#issue-3958846174). Big thanks to [**Augtive85YT**](https://github.com/Augtive85YT).
  
 Fastfetch is a neofetch-like tool for fetching system information and displaying it in a visually appealing way. It is written mainly in C, with a focus on performance and customizability.
 
