@@ -36,8 +36,8 @@ Other
 
 | 📚 Entry | ✨ App |
 |---------------------|------------|
-| Colorscheme         | [Catppuccin Mocha](#catppuccinmocha) |
-| Font                | [JetBrainsMono Nerd Font](#jetbrainsmononerdfont) |
+| Colorscheme         | [Catppuccin Mocha](https://catppuccin.com) |
+| Font                | [JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/latest/download/JetBrainsMono.zip) |
 
 
 ---
